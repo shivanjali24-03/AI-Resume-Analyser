@@ -11,6 +11,8 @@
 ![Express](https://img.shields.io/badge/Express_5-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge)
+
 </div>
 
 ## What it does
@@ -95,6 +97,10 @@ Response:
 - [ ] Download the report as a PDF
 - [ ] Highlight weak sections directly on the resume
 - [ ] Tests for the API
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
